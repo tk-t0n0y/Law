@@ -1,0 +1,180 @@
+{
+	"fields": {
+		"university": "ISHAKHA INTERNATIONAL UNIVERSITY",
+		"location": "BANGLADESH",
+		"faculty": "Faculty of Arts \u0026 Social Science",
+		"program": "BA(Hons) in English",
+		"session": "Fall-2019",
+		"semester": "Fall Semester 2019 (1st)",
+		"courses": [
+			{
+				"code": "CS-1000",
+				"title": "Computer Fundamental \u0026 Applications"
+			},
+			{
+				"code": "EN-2010",
+				"title": "Introduction to Poetry"
+			},
+			{
+				"code": "EN-1003",
+				"title": "English Reading"
+			},
+			{
+				"code": "BI-1010",
+				"title": "Health Science Management"
+			}
+		],
+		"students": [
+			{
+				"id": "193301005",
+				"name": "MD. AFRAIM RAHMAN",
+				"grades": {
+					"CS-1000": 2.5,
+					"EN-2010": 2.75,
+					"EN-1003": 2.5,
+					"BI-1010": 3.5
+				},
+				"gpa": 2.81
+			},
+			{
+				"id": "193301014",
+				"name": "JHARESH DAS",
+				"grades": {
+					"CS-1000": 2.75,
+					"EN-2010": 2.75,
+					"EN-1003": 2.5,
+					"BI-1010": 2.75
+				},
+				"gpa": 2.69
+			},
+			{
+				"id": "193301018",
+				"name": "MARINA JAHAN POPI",
+				"grades": {
+					"CS-1000": 3.75,
+					"EN-2010": 3.75,
+					"EN-1003": 3.75,
+					"BI-1010": 4
+				},
+				"gpa": 3.81
+			},
+			{
+				"id": "193301022",
+				"name": "SHAHJALAL BHUIYAN",
+				"grades": {
+					"CS-1000": 3.5,
+					"EN-2010": 2.5,
+					"EN-1003": 2.5,
+					"BI-1010": 2
+				},
+				"gpa": 2.63
+			},
+			{
+				"id": "193301028",
+				"name": "SUSMITA SULTANA",
+				"grades": {
+					"CS-1000": 3,
+					"EN-2010": 3.75,
+					"EN-1003": 3.75,
+					"BI-1010": 4
+				},
+				"gpa": 3.63
+			},
+			{
+				"id": "193301029",
+				"name": "SHANU AKTER",
+				"grades": {
+					"CS-1000": 3.5,
+					"EN-2010": 3.75,
+					"EN-1003": 3.75,
+					"BI-1010": 3.75
+				},
+				"gpa": 3.69
+			},
+			{
+				"id": "193301033",
+				"name": "MD. NAEEM MIA",
+				"grades": {
+					"CS-1000": 3.5,
+					"EN-2010": 3,
+					"EN-1003": 2.75,
+					"BI-1010": 2.5
+				},
+				"gpa": 2.94
+			},
+			{
+				"id": "193301040",
+				"name": "IFFAT JAHAN",
+				"grades": {
+					"CS-1000": 0,
+					"EN-2010": 0,
+					"EN-1003": 0,
+					"BI-1010": 0
+				},
+				"gpa": 0
+			},
+			{
+				"id": "193301053",
+				"name": "ANTAR MIA",
+				"grades": {
+					"CS-1000": 3.5,
+					"EN-2010": 3,
+					"EN-1003": 2.5,
+					"BI-1010": 3.25
+				},
+				"gpa": 3.06
+			},
+			{
+				"id": "193301063",
+				"name": "SHARMIN AKTER",
+				"grades": {
+					"CS-1000": 3.5,
+					"EN-2010": 3.75,
+					"EN-1003": 3.25,
+					"BI-1010": 4
+				},
+				"gpa": 3.63
+			},
+			{
+				"id": "193301068",
+				"name": "HALIMA AKTER",
+				"grades": {
+					"CS-1000": 2,
+					"EN-2010": 2.5,
+					"EN-1003": 2.25,
+					"BI-1010": 3.25
+				},
+				"gpa": 2.5
+			},
+			{
+				"id": "193301069",
+				"name": "TASNUVA TANJUM TANHA",
+				"grades": {
+					"CS-1000": 4,
+					"EN-2010": 3.75,
+					"EN-1003": 3.75,
+					"BI-1010": 4
+				},
+				"gpa": 3.88
+			},
+			{
+				"id": "193301070",
+				"name": "HUMAIRA AMRIN JAYMA",
+				"grades": {
+					"CS-1000": 2.25,
+					"EN-2010": 3.75,
+					"EN-1003": 3.5,
+					"BI-1010": 3.5
+				},
+				"gpa": 3.25
+			}
+		],
+		"tabulators": [
+			"Md. Badrul Huda Sohel",
+			"Md. Rakibul Hasan"
+		],
+		"exam_date": "01.07-2120",
+		"exam_controller": "Controller of Examinations"
+	},
+	"text": "                                                                                           IIUB\n\n\n\n\n     Course Codesand Titles:                                                    ISHAKHA INTERNATIONAL UNIVERSITY\n     CS-1000:Computer Fundamental\u0026Applications                                     BANGLADESH\n     EN-2010:IntroductiontoPoetry\n                                                                               FacultyofArts\u0026 Social science\n     EN-1003: EnglishReading\n     BI-1010 Health ScienceManagement                                                     BA(Hons) in English\n                                                                                      Session: Fall-2019\n\n                                                                                   FallSemester 2019 (1st)\n\n\n\n                                                                          Fall Semester 2019\n                                                                   CS-1000       EN-2010        EN-1003         BI-1010\n\n\n\n       Sl.No          ID             Name ofthe candidate     Grade Point      Grade Point      Grade Point      Grade Point              GPA\n\n         1        193301005    MD. AFRAIM RAHMAN           2.50         2.75         2.50          3.50            2.81\n\n         2        193301014   JHARESH DAS                    2.75         2.75         2.50          2.75            2.69\n\n         3        193301018   MARINA JAHAN POPI\n                                                                    3.75         3.75         3.75          4.00            3.81\n\n         4        193301022    SHAHJALAL BHUIYAN\n                                                                    3.50         2.50         2.50          2.00            2.63\n\n         5        193301028    SUSMITA SULTANA              3.00         3.75         3.75          4.00            3.63\n\n         6        193301029   SHANU AKTER                   3.50         3.75         3.75          3.75            3.69\n\n         7        193301033   MD. NAEEM MIA                 3.50         3.00         2.75          2.50            2.94\n\n         8        193301040   IFFAT JAHAN                     0.00         0.00         0.00          0.00            0.00\n\n         9        193301053   ANTAR MIA                       3.50         3.00         2.50          3.25            3.06\n\n        10        193301063    SHARMIN AKTER                 3.50         3.75         3.25          4.00            3.63\n\n        11        193301068    HALIMA AKTER                  2.00         2.50         2.25          3.25            2.50\n\n        12        193301069    TASNUVA TANJUM TANHA         4.00         3.75         3.75          4.00            3.88\n        13        193301070   HUMAIRA AMRIN JAYMA       2.25         3.75         3.50          3.50            3.25               min\nTabulators:\n1. Md. Badrul Huda Sohel                                                                                                              01.07-2120\n2. Md. Rakibul Hasan                                                                                                     Controller of Examinations\n"
+}
